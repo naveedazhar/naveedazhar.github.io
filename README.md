@@ -1,9 +1,5 @@
 # 👋 Diary of a Software Architect
 
-{% hint style="info" %}
-**Disclaimer:** The information compiled in the GitBook is organized as a reference to learning modern software architecture and design. The information may be inaccurate, or outdated. As technology is updating at an unprecedented pace, you are requested to refer to the official documentation of the products.
-{% endhint %}
-
 ## Overview
 
 Here are aa couple of example overviews from products with really great docs :
