@@ -35,7 +35,7 @@
 ## Patterns and design principles
 
 * [🈹 MVC, MVP, MVVM](patterns-and-design-principles/mvc-mvp-mvvm.md)
-* [SOLID](patterns-and-design-principles/solid.md)
+* [⚒ SOLID](patterns-and-design-principles/solid.md)
 * [DRY](patterns-and-design-principles/dry.md)
 * [YAGNI](patterns-and-design-principles/yagni.md)
 * [Domain Driven Design](patterns-and-design-principles/domain-driven-design.md)
