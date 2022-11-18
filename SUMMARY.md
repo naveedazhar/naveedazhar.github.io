@@ -70,3 +70,8 @@
 * [Service Mesh](cloud-design/service-mesh.md)
 * [Linux / Unix](cloud-design/linux-unix.md)
 * [Serverless Concepts](cloud-design/serverless-concepts.md)
+
+## Data Management
+
+* [SQL Databases](data-management/sql-databases.md)
+* [NoSQL Database](data-management/nosql-database.md)
