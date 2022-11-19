@@ -75,3 +75,16 @@
 
 * [SQL Databases](data-management/sql-databases.md)
 * [NoSQL Database](data-management/nosql-database.md)
+* [Spark, Hadoop, MapReduce](data-management/spark-hadoop-mapreduce.md)
+* [ETL, Data Warehouses](data-management/etl-data-warehouses.md)
+
+## Mobile + Web frontend
+
+* [Functional vs Reactive](mobile-+-web-frontend/functional-vs-reactive.md)
+* [ReactJS, ReactNative](mobile-+-web-frontend/reactjs-reactnative.md)
+* [VueJS](mobile-+-web-frontend/vuejs.md)
+* [Angular](mobile-+-web-frontend/angular.md)
+* [SPA vs SSG vs SSR](mobile-+-web-frontend/spa-vs-ssg-vs-ssr.md)
+* [PWA](mobile-+-web-frontend/pwa.md)
+* [Microfrontends](mobile-+-web-frontend/microfrontends.md)
+* [W3C and WHATWG Standards](mobile-+-web-frontend/w3c-and-whatwg-standards.md)
