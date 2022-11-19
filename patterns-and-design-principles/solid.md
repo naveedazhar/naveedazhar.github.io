@@ -1,4 +1,4 @@
-# SOLID
+# ⚒ SOLID
 
 Yet another common programming principle. This one though, stands for:
 

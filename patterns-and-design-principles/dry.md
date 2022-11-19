@@ -1,4 +1,4 @@
-# DRY
+# 😨 DRY
 
 Let’s start with an easy one, I’m sure you’ve seen this one around plenty of times, but do you know what it means?
 
