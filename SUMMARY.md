@@ -29,17 +29,15 @@
 * [7. Architectural Styles](software-design-and-architecture-map/7.-architectural-styles.md)
 * [8. Architectural Patterns](software-design-and-architecture-map/8.-architectural-patterns.md)
 * [9. Enterprise patterns](software-design-and-architecture-map/9.-enterprise-patterns.md)
-* [🎨 For Designers](software-design-and-architecture-map/for-designers.md)
-* [🖥 For Developers](software-design-and-architecture-map/for-developers.md)
 
 ## Patterns and design principles
 
 * [🈹 MVC, MVP, MVVM](patterns-and-design-principles/mvc-mvp-mvvm.md)
 * [⚒ SOLID](patterns-and-design-principles/solid.md)
 * [😨 DRY](patterns-and-design-principles/dry.md)
-* [YAGNI](patterns-and-design-principles/yagni.md)
-* [Domain Driven Design](patterns-and-design-principles/domain-driven-design.md)
-* [Actor Model](patterns-and-design-principles/actor-model.md)
+* [🛑 YAGNI](patterns-and-design-principles/yagni.md)
+* [🫂 Domain Driven Design](patterns-and-design-principles/domain-driven-design.md)
+* [👨🎤 Actor Model](patterns-and-design-principles/actor-model.md)
 * [OOP](patterns-and-design-principles/oop.md)
 * [CQRS Eventual Consistency](patterns-and-design-principles/cqrs-eventual-consistency.md)
 * [ACID & CAP](patterns-and-design-principles/acid-and-cap.md)
@@ -99,3 +97,13 @@
 * [CDN](networking/cdn.md)
 * [VPC](networking/vpc.md)
 * [Loadbalancers](networking/loadbalancers.md)
+
+## Management
+
+* [Agile, Scrum, Kanban](management/agile-scrum-kanban.md)
+* [PMP](management/pmp.md)
+* [ITIL](management/itil.md)
+* [RUP](management/rup.md)
+* [Prince2](management/prince2.md)
+* [Less](management/less.md)
+* [SAFe](management/safe.md)
