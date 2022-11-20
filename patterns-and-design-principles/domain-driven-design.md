@@ -1,4 +1,4 @@
-# Domain Driven Design
+# 🫂 Domain Driven Design
 
 Domain-driven design (DDD) is a software design approach focusing on modeling software to match a domain according to input from that domain's experts.
 

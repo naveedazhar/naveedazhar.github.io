@@ -1,4 +1,4 @@
-# YAGNI
+# 🛑 YAGNI
 
 Otherwise known as “You ain’t gonna need it” is a principle taken from [eXtreme Programming](https://www.agilealliance.org/glossary/xp/) that argues that you should not build functionality in advance, or rather, until you actually need it.
 

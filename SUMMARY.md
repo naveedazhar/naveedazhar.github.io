@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [💡 What I do](overview/what-i-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What do I do](overview/what-i-do.md)
 
 ## Software Architecture
 
@@ -53,7 +52,7 @@
 * [GraphQL](apis-and-integration/graphql.md)
 * [REST API](apis-and-integration/rest-api.md)
 * [BPM BPEL](apis-and-integration/bpm-bpel.md)
-* [Messaging queues](apis-and-integration/messaging-queues.md)
+* [Messaging Queues](apis-and-integration/messaging-queues.md)
 * [Azure Integration Services](apis-and-integration/azure-integration-services.md)
 * [AWS Integration Services](apis-and-integration/aws-integration-services.md)
 * [Enterprise Integration Patterns](apis-and-integration/enterprise-integration-patterns.md)
@@ -119,4 +118,13 @@
 
 ## IDEs, Tools, Libraries
 
-* [API Testing](ides-tools-libraries/api-testing.md)
+* [IDEs](ides-tools-libraries/ides.md)
+* [Testing](ides-tools-libraries/testing.md)
+
+## Security
+
+* [DevSecOps](security/devsecops.md)
+* [OWASP](security/owasp.md)
+* [Auth Strategies](security/auth-strategies.md)
+* [PKI](security/pki.md)
+* [Hashing Algorithms](security/hashing-algorithms.md)
