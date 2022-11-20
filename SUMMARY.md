@@ -114,3 +114,7 @@
 * [IAF](architecture-frameworks/iaf.md)
 * [UML](architecture-frameworks/uml.md)
 * [TOGAF](architecture-frameworks/togaf.md)
+
+## IDEs, Tools, Libraries
+
+* [API Testing](ides-tools-libraries/api-testing.md)
