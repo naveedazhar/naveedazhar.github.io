@@ -1,4 +1,4 @@
-# KISS
+# 💋 KISS
 
 I always liked this one, both for the word that forms and for what it means: **Keep It Simple Stupid** (or if you don’t like to be called stupid, you can think of it as **Keep It Stupid Simple**, which I think works even better for the actual meaning of the acronym).
 
