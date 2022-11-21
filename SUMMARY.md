@@ -20,5 +20,6 @@
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
+* [🎨 For Designers](use-cases/for-designers/README.md)
+  * [Page 1](use-cases/for-designers/page-1.md)
 * [🖥 For Developers](use-cases/for-developers.md)
