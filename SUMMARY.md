@@ -10,7 +10,7 @@
 
 * [📪 What is Software Architecture](software-architecture/what-is-software-architecture.md)
 * [📎 Levels of Software Architecture](software-architecture/levels-of-software-architecture.md)
-* [Architecture vs Design](software-architecture/architecture-vs-design.md)
+* [💻 Architecture vs Design](software-architecture/architecture-vs-design.md)
 * [System and Enterprise Architectures](software-architecture/system-and-enterprise-architectures.md)
 
 ## Fundamentals
