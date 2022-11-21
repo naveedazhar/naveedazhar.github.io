@@ -1,3 +1,0 @@
-# 🎨 For Designers
-
-## Figma Integrations
