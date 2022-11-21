@@ -6,7 +6,7 @@
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+Here are aa couple of example overviews from products with really great docs:
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
