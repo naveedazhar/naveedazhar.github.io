@@ -128,3 +128,13 @@
 * [Auth Strategies](security/auth-strategies.md)
 * [PKI](security/pki.md)
 * [Hashing Algorithms](security/hashing-algorithms.md)
+
+## Programming Languages
+
+* [JavaScript](programming-languages/javascript.md)
+* [Swift](programming-languages/swift.md)
+* [C#, VB.Net](programming-languages/c-vb.net.md)
+* [Java, Spring Boot](programming-languages/java-spring-boot.md)
+* [Python](programming-languages/python.md)
+* [PHP](programming-languages/php.md)
+* [Ruby, Go, Scala](programming-languages/ruby-go-scala.md)
