@@ -37,7 +37,7 @@
 * [CQRS Eventual Consistency](patterns-and-design-principles/cqrs-eventual-consistency.md)
 * [ACID & CAP](patterns-and-design-principles/acid-and-cap.md)
 * [Test Driven Development](patterns-and-design-principles/test-driven-development.md)
-* [💋 KISS](patterns-and-design-principles/kiss.md)
+* [KISS](patterns-and-design-principles/kiss.md)
 
 ## APIs and Integration
 
